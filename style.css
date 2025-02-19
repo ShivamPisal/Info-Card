@@ -10,9 +10,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left:5px;
-    margin-right:5px;
     overflow-x: hidden;
+    padding:10px;
 }
 .box{
     width: 380px;
@@ -20,6 +19,7 @@
     border-radius: 10px;
     border: solid black 1px;
     box-shadow: 5px 5px 10px black;
+    
 }
 .upperbox{
     width: 100%;
