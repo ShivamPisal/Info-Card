@@ -10,6 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 10px;
 }
 .box{
     width: 380px;
